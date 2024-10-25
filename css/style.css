@@ -27,9 +27,9 @@
 }
 
 .menu a:hover {
-    background-color: green;
+    background-color:#32CD32;
     color: #000; /* Altera a cor do texto ao passar o mouse */
-    border-radius: 10px;
+    border-radius: 50px;
     width:150%;
 }
 
@@ -297,6 +297,11 @@ ul.team-social li a {
     line-height: 30px;
     color: #FFF;
     border-radius: 50%;
+}
+
+ul.team-social :hover{
+    background-color: #32CD32;
+    border-radius: 100%;
 }
 
 
